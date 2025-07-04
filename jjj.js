@@ -1,2 +1,2 @@
 console.log('jjj.js');
-console.log('version 7');
+console.log('version 1778');
