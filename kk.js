@@ -1,2 +1,2 @@
 console.log('k.js');
-console.log('version2');
+console.log('version7');
